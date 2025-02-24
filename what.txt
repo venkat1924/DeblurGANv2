@@ -1,0 +1,5 @@
+downloaded the fpn_inception.h5 file from the github repo
+downloaded the inceptionnet weights from the chatgpt link and moved to the cache
+new predict.py program with uncommented Fire and no GPU dependency.
+remove the version from the requirements file for scikit-image
+
